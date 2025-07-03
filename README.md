@@ -68,7 +68,6 @@ Right-click index.html → Open with Live Server
 - 🔄 Make feed dynamic using backend (Firebase or Node.js)  
 - 📷 Allow image upload from local system  
 - 📱 Build a mobile-first version  
-- 🌙 Dark mode toggle  
 
 ---
 
